@@ -1,0 +1,138 @@
+@media (max-width: 1000px) {
+    .about_info {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+    }
+    .about_line {
+        margin: 5px 0;
+    }
+    .subscribe_content {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+    .subscribe_input {
+        width: 320px;
+    }
+}
+
+@media (max-width: 854px) {
+    .shop_content,
+    .animals_list {
+        flex-wrap: wrap;
+    }
+    .cart_item_text {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 600px) {
+    .nav_list {
+        position: fixed;
+        top: 0;
+        left: -225px;
+        padding-top: 50px;
+        flex-direction: column;
+        width: 220px;
+        height: 100%;
+        background-color: #fff;
+        border: 2px solid #A5C926;
+        box-shadow: 0 0 4px 4px rgba(0, 0, 0, 0.25);
+        transition: 0.3s ease-in;
+        z-index: 1000;
+    }
+    .nav_list.active {
+        left: 0;
+    }
+    .header_nav {
+        font-size: 20px;
+    }
+    .header_btn {
+        display: block;
+    }
+    .footer_top {
+        flex-wrap: wrap;
+        justify-content: center;
+        column-gap: 50px;
+    }
+    .footer_bottom {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .cart_toy_img {
+        width: 100px;
+        margin-right: 10px;
+    }
+}
+
+@media (max-width: 420px) {
+    .info__text,
+    .info__icons {
+        gap: 5px;
+    }
+    .hello_title {
+        font-size: 32px;
+    }
+    .shop {
+        padding: 100px 0 80px;
+    }
+    .shop_item {
+        gap: 5px;
+        padding: 0 5px;
+    }
+    .animals {
+        padding-bottom: 100px;
+    }
+    .about {
+        padding-top: 100px;
+    }
+    .subscribe {
+        padding: 100px 0;
+    }
+    .subscribe_alert {
+        left: 50%;
+        transform: translateX(-50%);
+        width: 80%;
+        text-align: center;
+        border-top-left-radius: 50px;
+        padding: 30px;
+    }
+    .cart {
+        padding: 30px;
+    }
+    .cart_toy_title {
+        font-size: 18px;
+        margin-right: 5px;
+    }
+    .animals_price span {
+    
+        font-size: 18px;
+    }
+    .delivery_text {
+        font-size: 25px;
+        padding-bottom: 20px;
+    }
+    .about_page_title {
+        font-size: 30px;
+    }
+    .about_page_text {
+        padding-top: 30px;
+    }
+    .about_page_par {
+        font-size: 20px;
+        padding-bottom: 15px;
+    }
+    .insta {
+        padding-bottom: 100px;
+    }
+    .insta_list {
+        padding: 30px 0;
+    }
+    .footer {
+        padding: 30px 0 10px;
+    }
+    .footer_line {
+        margin: 30px 0 20px;
+    }
+}
