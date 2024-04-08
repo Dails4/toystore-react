@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/toystore-react/static/css/main.ae82ee48.css",
+    "main.js": "/toystore-react/static/js/main.716b74f2.js",
+    "static/media/header.png": "/toystore-react/static/media/header.35472ccb98cd5a0c5ae3.png",
+    "static/media/video-bg.png": "/toystore-react/static/media/video-bg.db02101b1b4873c97731.png",
+    "static/media/kids.png": "/toystore-react/static/media/kids.de87d0ef121c4fa46810.png",
+    "static/media/teddy.png": "/toystore-react/static/media/teddy.00dd63fa0ecdd9a29e63.png",
+    "static/media/inst5.png": "/toystore-react/static/media/inst5.2fb8f3b1bacb46db50b8.png",
+    "static/media/toys.png": "/toystore-react/static/media/toys.a8bc189be6b743fd2ce8.png",
+    "static/media/inst2.png": "/toystore-react/static/media/inst2.154e81113a99ded865a2.png",
+    "static/media/inst3.png": "/toystore-react/static/media/inst3.27fea50557184b6bed2c.png",
+    "static/media/inst6.png": "/toystore-react/static/media/inst6.51e3091e02ea9b99c4ba.png",
+    "static/media/friend.png": "/toystore-react/static/media/friend.3ab40099fecc58e9db2b.png",
+    "static/media/inst1.png": "/toystore-react/static/media/inst1.fa6fcdf9d1fca70e7975.png",
+    "static/media/flower.png": "/toystore-react/static/media/flower.dc14aea1bfc064ad464e.png",
+    "static/media/dog.png": "/toystore-react/static/media/dog.110817f8bf7332d87dbb.png",
+    "static/media/plush.png": "/toystore-react/static/media/plush.2959bcde6338c91695fa.png",
+    "static/media/machine.png": "/toystore-react/static/media/machine.71b7496d41b160751cc4.png",
+    "static/media/camera.png": "/toystore-react/static/media/camera.59474932f79f53085136.png",
+    "static/media/inst4.png": "/toystore-react/static/media/inst4.adcb44efe6445bdc77b1.png",
+    "static/media/rabbit.png": "/toystore-react/static/media/rabbit.762aef8ac633e0e962d5.png",
+    "static/media/pinterest.svg": "/toystore-react/static/media/pinterest.af1cab93dafb2103bdfe059e7f950974.svg",
+    "static/media/cart.svg": "/toystore-react/static/media/cart.ee3f2c60d9aa37224b412c994568e6c3.svg",
+    "static/media/yt.svg": "/toystore-react/static/media/yt.f9e235091f91432df45f3c767aa06d6b.svg",
+    "static/media/fb.svg": "/toystore-react/static/media/fb.62a625331a91fdf7e83f96ea42b96c50.svg",
+    "static/media/twitter.svg": "/toystore-react/static/media/twitter.211d78a37e795c97507e8f840321bb23.svg",
+    "static/media/insta.svg": "/toystore-react/static/media/insta.ea57df53bb0c4b3637e96eaf06b80bb9.svg",
+    "static/media/tg.svg": "/toystore-react/static/media/tg.10dd248ba3d3a3bbe8fb8c43a5103d0d.svg",
+    "index.html": "/toystore-react/index.html",
+    "main.ae82ee48.css.map": "/toystore-react/static/css/main.ae82ee48.css.map",
+    "main.716b74f2.js.map": "/toystore-react/static/js/main.716b74f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae82ee48.css",
+    "static/js/main.716b74f2.js"
+  ]
+}
