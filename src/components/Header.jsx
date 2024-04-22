@@ -10,7 +10,7 @@ const Header = () => {
     useEffect(() => {
         let quantity = 0;
         toys.forEach(toy => {
-            if (toy.quantity > 0) quantity += 1;
+            if (toy.quantity > 0) quantity += toy.quantity;
         });
         setToysQuantity(quantity);
         console.log(toys)

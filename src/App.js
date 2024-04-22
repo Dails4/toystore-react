@@ -18,7 +18,7 @@ function App() {
     <div className="App">
      
         <Routes>
-          <Route path='/' element={<ToyStore />} />
+          <Route path='/toystore-react/' element={<ToyStore />} />
           <Route path="/catalog" element={<Catalog />} />
           <Route path="/delivery" element={<Delivery />} />
           <Route path="/about" element={<About />} />

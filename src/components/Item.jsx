@@ -10,7 +10,8 @@ const Item = ({toy}) => {
       (counter > 0) ? setCounter(counter - 1) : setCounter(0)
   }
   function addItem() {
-      toy.quantity = counter
+      toy.quantity = counter;
+    //   console.log(toy.quantity)
   }
 return (
   <div className='item_more' onClick={(e) => e.stopPropagation()}>
