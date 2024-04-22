@@ -19,11 +19,11 @@ function App() {
      
         <Routes>
           <Route path='/toystore-react/' element={<ToyStore />} />
-          <Route path="/catalog" element={<Catalog />} />
-          <Route path="/delivery" element={<Delivery />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contacts" element={<Contacts />} />
-          <Route path='/cart' element={<Cart /> } />
+          <Route path="/toystore-react/catalog" element={<Catalog />} />
+          <Route path="/toystore-react/delivery" element={<Delivery />} />
+          <Route path="/toystore-react/about" element={<About />} />
+          <Route path="/toystore-react/contacts" element={<Contacts />} />
+          <Route path='/toystore-react/cart' element={<Cart /> } />
           <Route path="*" element={<Error />} />
         </Routes>
       
